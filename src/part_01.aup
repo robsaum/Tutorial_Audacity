@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<audacityproject projname="part_01_data" version="1.1.0" audacityversion="1.2.4" sel0="7.6609574671" sel1="7.6609574671" vpos="0" h="0.0000000000" zoom="68.2682291667" rate="44100.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<timetrack name="Time Track" channel="2" offset="0.00000000" >
+		<envelope numpoints='0'>
+		</envelope>
+	</timetrack>
+	<wavetrack name="part_01" channel="2" linked="0" offset="0.00000000" rate="44100.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="1038738" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00052.au' len='211757' min='-0.185576' max='0.324669' rms='0.023424'/>
+			</waveblock>
+			<waveblock start="211757" >
+				<simpleblockfile filename='b00053.au' len='262144' min='-0.313014' max='0.360186' rms='0.037735'/>
+			</waveblock>
+			<waveblock start="473901" >
+				<simpleblockfile filename='b00054.au' len='262144' min='-0.427415' max='0.310021' rms='0.036263'/>
+			</waveblock>
+			<waveblock start="736045" >
+				<simpleblockfile filename='b00055.au' len='151346' min='-0.225367' max='0.250165' rms='0.023877'/>
+			</waveblock>
+			<waveblock start="887391" >
+				<simpleblockfile filename='b00056.au' len='151347' min='-0.377391' max='0.431035' rms='0.023866'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='12'>
+			<controlpoint t='0.805645622735' val='0.107692307692'/>
+			<controlpoint t='1.157200076292' val='1.000000000000'/>
+			<controlpoint t='3.867098989128' val='1.000000000000'/>
+			<controlpoint t='4.101468624833' val='0.092307692308'/>
+			<controlpoint t='4.760633225253' val='0.076923076923'/>
+			<controlpoint t='4.907114247568' val='1.000000000000'/>
+			<controlpoint t='19.335494945642' val='1.000000000000'/>
+			<controlpoint t='19.569864581347' val='0.107692307692'/>
+			<controlpoint t='20.771008964333' val='0.107692307692'/>
+			<controlpoint t='20.976082395575' val='1.000000000000'/>
+			<controlpoint t='22.162578676330' val='1.000000000000'/>
+			<controlpoint t='22.396948312035' val='0.092307692308'/>
+		</envelope>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="4">
+		<label t="1.09860767" t1="1.09860767" title="Components"/>
+		<label t="4.90711425" t1="4.90711425" title="Menu Bar"/>
+		<label t="6.59164600" t1="6.59164600" title="Toolbars"/>
+		<label t="7.66095747" t1="7.66095747" title="Tracks"/>
+	</labeltrack>
+</audacityproject>

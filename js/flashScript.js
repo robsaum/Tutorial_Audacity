@@ -1,0 +1,2 @@
+if (is_Flash) { document.write("<img src='./img/ok.gif' width='25' height='24' alt='Passed' style='float: right; padding: 8px; margin-right: 10px;'/>Your system has the Adobe Flash plugin"); } else {
+           document.write("<img src='./img/get_flash_player.gif' width='88' height='31' alt='Download the Adobe Flash Player!' /><br /><br />Please <A href='http://www.adobe.com/go/gntray_dl_getflashplayer' target='_blank'>install the Flash plugin</A>"); }

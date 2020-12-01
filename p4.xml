@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Orientation to the Audacity Interface</title>
+    <link>http://vc1.dbcc.edu/</link>
+    <description>Dr. Robert R. Saum&apos;s Orientation to the Audacity Interface.</description>
+    <language>en</language>
+    <copyright>Dr. Robert R. Saum</copyright>
+    <managingEditor>saumr@dbcc.edu (Dr. Robert R. Saum)</managingEditor>
+    <webMaster>saumr@dbcc.edu (Dr. Robert R. Saum)</webMaster>
+    <pubDate>Wed, 26 Oct 2006 14:56:06 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2006 14:56:06 -0500</lastBuildDate>
+    <category>High Education</category>
+    <itunes:author>Dr. Robert R. Saum</itunes:author>
+    <itunes:keywords>audacity, audio, editing, podcast, education, multimedia, dbcc, teaching, learning, authoring</itunes:keywords>
+    <itunes:category text="Education">
+      <itunes:category text="Higher Education"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Dr. Robert R. Saum</itunes:name>
+      <itunes:email>saumr@dbcc.edu</itunes:email>
+    </itunes:owner>
+    <itunes:block>No</itunes:block>
+    <item>
+      <title>Orientation to the Audacity Interface</title>
+      <link>http://vc1.dbcc.edu/dev/audacity/snd/part_01.mp3</link>
+      <pubDate>Wed, 25 Oct 2006 00:00:00 -0500</pubDate>
+      <enclosure url="http://vc1.dbcc.edu/dev/audacity/snd/part_01.mp3" length="1380" type="audio/mpeg"/>
+      <guid isPermaLink="false">http://vc1.dbcc.edu/dev/audacity/snd/part_01.mp3</guid>
+      <itunes:author>Dr. Robert R. Saum</itunes:author>
+      <itunes:summary>
+      This module prepares users for further instruction in the use of Audacity by familiarizing them with the interface layout, tools, and controls. Upon completion, users should be able to recognize and select the appropriate parts of the interface when asked.
+      </itunes:summary>
+      <itunes:duration>0:23:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
